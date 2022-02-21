@@ -5,3 +5,4 @@ Also programmer needs to focus most of the time, so great sleep is a must.
 When I was creating some school programs, or some games for gamejams, I was able to spend huge amount of time on some feature. 
 I wanted it to be perfect in any way. But at the end I was just wasting time, not doing what was really needed. 
 And the truth is, that some times I didnt even use these features in project.
+3.	This is very important. Write simple and readable code, so that one day my colleagues (or future self) will thank me :)
