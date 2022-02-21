@@ -1,3 +1,7 @@
 1.	First habit is important not only in programming, but in most of the jobs.
 We have only one health and we should take care of it. 
 Also programmer needs to focus most of the time, so great sleep is a must.
+2.	I need to learn this habit, because I am exactly like that. 
+When I was creating some school programs, or some games for gamejams, I was able to spend huge amount of time on some feature. 
+I wanted it to be perfect in any way. But at the end I was just wasting time, not doing what was really needed. 
+And the truth is, that some times I didnt even use these features in project.
