@@ -8,3 +8,4 @@ And the truth is, that some times I didnt even use these features in project.
 3.	This is very important. Write simple and readable code, so that one day my colleagues (or future self) will thank me :)
 4.	In the past it was really hard for me to get in „the zone“, because I got distracted with every little sound around me. 
 But now its much better. Usually when I try to code or focus, I put my headphones on, turn some non-distract music so I will not hear traffic and other noise around me. 
+5.	I think no comment is needed here, technologies are constantly changing and evolving, so we have to adapt.
